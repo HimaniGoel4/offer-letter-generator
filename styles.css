@@ -1,0 +1,64 @@
+#main_title {
+  text-align: center;
+  background-color: #f0b53f;
+  color: #fff;
+  padding: 20px;
+  letter-spacing: 2px;
+  font-weight: 500;
+}
+.box1 h3 {
+  margin-left: 20px;
+}
+.box1 button {
+  margin-right: 100px;
+  float: right;
+  margin-bottom: 10px;
+}
+
+.container {
+  margin-top: 50px;
+}
+h6 {
+  color: red;
+  text-align: center;
+}
+h5 {
+  text-align: center;
+  color: green;
+}
+td {
+  text-align: center;
+}
+th {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  background-color: #eba037;
+  color: #fff;
+  padding: 15px;
+  letter-spacing: 2px;
+}
+form {
+  margin-top: 30px;
+  padding: 0px 100px;
+}
+input {
+  margin: 10px;
+}
+h4 {
+  text-align: center;
+  color: red;
+}
+a {
+  float: right;
+  margin-right: 50px;
+}
+.modal-body {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  overflow: hidden;
+  text-align: left;
+}
